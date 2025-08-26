@@ -1,0 +1,26 @@
+:root {
+  --skin-color: #6366f1;
+  --skin-color-light: #818cf8;
+  --skin-color-dark: #4f46e5;
+  --accent-color: #f59e0b;
+  --accent-color-light: #fbbf24;
+}
+
+/* Additional modern color variants */
+.color-modern-variant-1 {
+  --skin-color: #10b981;
+  --skin-color-light: #34d399;
+  --skin-color-dark: #059669;
+}
+
+.color-modern-variant-2 {
+  --skin-color: #f59e0b;
+  --skin-color-light: #fbbf24;
+  --skin-color-dark: #d97706;
+}
+
+.color-modern-variant-3 {
+  --skin-color: #ef4444;
+  --skin-color-light: #f87171;
+  --skin-color-dark: #dc2626;
+}
